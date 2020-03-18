@@ -1,8 +1,9 @@
-a subset of the grep command.
-input is give by stdin.
+A subset of the grep command.
+
+An input is give by stdin.
 
 ```
-grep [options] pattern
+rust_grep [options] pattern
 * -c: count of lines
 * otherwise filename + matched line
 ```
